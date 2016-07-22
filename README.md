@@ -1,4 +1,4 @@
 # Tours-and-Travel
-This is a tours and tourism website for Kenya. 
+This is a tours and travel website for Kenyan operators. 
 
-Have a look at: bit.ly/tntke
+The website can be found here: [Tours and Travel Kenya](bit.ly/tntke)
